@@ -1,0 +1,2 @@
+# skip-aja
+Safelinkanto
